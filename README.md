@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrechelon
+- 👋 Hi, I’m Mbuk Victor
 - 👀 I’m currently working on building my technical skills in Data Analysis
 - 🌱 I’m currently learning Data Analysis in the NG30 Days of Learning
 - 💞️ I’m looking to collaborate on anything data analysis and projects  I
