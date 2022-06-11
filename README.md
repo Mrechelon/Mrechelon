@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Analysis in the NG30 Days of Learning
 - 💞️ I’m looking to collaborate on anything data analysis and projects  I
 - 📫 How to reach me : https://twitter.com/MbukVictor_
-- 
 
 <!---
 Mrechelon/Mrechelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
